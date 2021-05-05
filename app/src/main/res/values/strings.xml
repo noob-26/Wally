@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wally</string>
+    <string name="label">Category</string>
+    <string name="search">SEARCH</string>
+    <string name="author_anncapictures">Author : anncapictures</string>
+    <string name="likes_100">Likes: 100</string>
+</resources>
